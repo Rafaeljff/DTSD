@@ -22,7 +22,8 @@ NODE-RED DASHBOARD
 ![image](https://github.com/Rafaeljff/DTSD/assets/45770575/df96cd10-8fc6-419a-acaf-b3b245d0a5e0)
 
 GRAFANA DASHBOARD
-[image](https://github.com/Rafaeljff/DTSD/assets/45770575/7befb90b-4bd1-4391-8b83-fdc2c424eb7c)
+![image](https://github.com/Rafaeljff/DTSD/assets/45770575/3ef33da1-5f29-466c-88c0-fd0fea7f5f61)
+
 
 InfluxDB Database Visualization
 
