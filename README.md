@@ -14,12 +14,13 @@ Node-red is able to interface in both directions with the user, being it used fo
 Grafana is  used for statistics and data monitoring, being it the strong point the manipulation and versatilly of the statistics that is possible to generate.
 Google Home is used for giving commands, like turn on/off the system or change the threshold of temperature. 
 
+##HARDWARE IMPLEMENTATION
 **ESP32 Hardware Achitecture**
 ![image](https://github.com/Rafaeljff/DTSD/assets/45770575/87994239-07a6-4f04-91eb-9f67f3630a59)
 **UML Diagram Hardware Architecture**
 ![image](https://github.com/Rafaeljff/DTSD/assets/45770575/af55268f-9f04-449c-a561-72692388a1ae)
 
-**Overall IoT Architecture**
+##ALL SYSTEM IMPLEMENTATION
 
 ![image](https://github.com/Rafaeljff/DTSD/assets/45770575/e2ad4141-4f60-4532-a6a8-2f7094f2ae15)
 
